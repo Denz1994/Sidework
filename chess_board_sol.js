@@ -1,6 +1,7 @@
 var firstLine=" #";
 var secLine="# ";
-var size = 2;
+var size = prompt("what size would you like the chess board to be?");
+
 
 //----------------------------------------------------
 //generating the first line
