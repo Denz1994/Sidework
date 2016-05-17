@@ -1,6 +1,6 @@
 var firstLine=" #";
 var secLine="";
-var size = 11;
+var size = 11; 
 
 //----------------------------------------------------
 //generating the first line
@@ -49,4 +49,3 @@ console.log(secLine);
 
 if (size%2==0){
     for (var j = 0; j <= size/2; j++)
-  		
