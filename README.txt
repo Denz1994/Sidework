@@ -13,4 +13,5 @@ Passing this string to console.log should show something like this:
 # # # #
 
 ¶When you have a program that generates this pattern, define a variable size = 8 and change the program so that it works for any size, outputting a grid of the given width and height.
- 
+
+ User will need to input a size and a chess board will be generated with the dimensions given in the size parameter.
